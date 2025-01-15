@@ -5,7 +5,7 @@ def mul(a,b):
     pass
 
 def div(a,b):
-    pass
+    return int(a/b)
 
 def res(a,b):
     pass
