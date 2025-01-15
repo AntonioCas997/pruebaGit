@@ -8,7 +8,6 @@ def div(a,b):
     pass
 
 def res(a,b):
-    c = a - b
     print("No me repruebe profe :(")
-    return c
+    return int(a-b)
 
