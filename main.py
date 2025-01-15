@@ -5,7 +5,8 @@ def mul(a,b):
     return (a*b)
 
 def div(a,b):
-    print("hola")
+    return int(a/b)
+
 
 def res(a,b):
     print("No me repruebe profe :(")
