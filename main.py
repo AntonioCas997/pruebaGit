@@ -8,5 +8,5 @@ def div(a,b):
     pass
 
 def res(a,b):
-    pass
+    return int(a-b)
 
