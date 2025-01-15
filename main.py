@@ -7,6 +7,7 @@ def mul(a,b):
 def div(a,b):
     return int(a/b)
 
+
 def res(a,b):
     print("No me repruebe profe :(")
     return int(a-b)
